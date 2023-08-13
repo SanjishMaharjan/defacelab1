@@ -1,10 +1,10 @@
-# defacelab1
+# defacelab
 
-A new Flutter project.
+A Major project on Deepfake Detection uisng Transformer model.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application for front-end.
 
 A few resources to get you started if this is your first Flutter project:
 
